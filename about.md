@@ -3,12 +3,9 @@ layout: page
 title: About
 ---
 
-Some information about you!
+keywords: Web developer,php,java,.net,python,js,ios...
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[byszhao#gmail.com](mailto:byszhao#gmail.com)
